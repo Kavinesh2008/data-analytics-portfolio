@@ -1,0 +1,501 @@
+Medicine_ID,Medicine_Name,Generic_Name,Category,Dosage,Manufacturer,Batch_Number,Stock_Quantity,Minimum_Stock,Expiry_Date,Purchase_Date,Unit_Price,Supplier,Storage_Location,Status
+MED001,Cetirizine,Cetirizine,Syrup,5 ml,Sun Pharma,B2200,414,20,2026-06-28,2025-08-04,161.38,MediSupply,C2,Active
+MED002,Calcium,Calcium,Capsule,650 mg,Mankind,B7855,56,50,2027-10-18,2025-08-09,188.46,HealthPlus,A1,Active
+MED003,Pantoprazole,Pantoprazole,Ointment,5 ml,Torrent,B2958,348,20,2026-07-29,2025-10-17,450.12,MediSupply,A1,Active
+MED004,Pantoprazole,Pantoprazole,Syrup,650 mg,Mankind,B1411,165,50,2027-10-07,2025-11-30,273.97,Prime Medics,B2,Active
+MED005,Azithromycin,Azithromycin,Tablet,500 mg,Lupin,B5912,140,50,2026-07-07,2025-03-30,94.0,ABC Pharma,A2,Active
+MED006,Vitamin C,Vitamin C,Capsule,5 ml,Alkem,B8109,241,30,2027-08-14,2025-12-31,237.5,ABC Pharma,Cold Storage,Active
+MED007,Calcium,Calcium,Capsule,500 mg,Abbott,B8379,429,20,2026-11-07,2025-02-28,98.18,Prime Medics,Cold Storage,Active
+MED008,Diclofenac,Diclofenac,Injection,5 ml,Alkem,B2065,459,50,2026-09-28,2025-03-04,373.4,Prime Medics,Cold Storage,Active
+MED009,Losartan,Losartan,Ointment,250 mg,Mankind,B9032,294,20,2027-02-09,2025-03-04,227.34,HealthPlus,B1,Active
+MED010,Calcium,Calcium,Tablet,650 mg,Mankind,B2391,327,30,2026-07-06,2025-04-22,447.78,LifeCare,Cold Storage,Active
+MED011,Levocetirizine,Levocetirizine,Capsule,5 ml,Dr. Reddy's,B5368,347,30,2026-11-26,2025-01-11,80.81,Prime Medics,C1,Active
+MED012,Dolo,Dolo,Injection,650 mg,Lupin,B6785,226,50,2028-02-23,2025-02-13,291.96,Prime Medics,C1,Active
+MED013,Azithromycin,Azithromycin,Injection,500 mg,Dr. Reddy's,B7298,137,50,2026-12-01,2025-07-09,160.65,MediSupply,C2,Active
+MED014,Diclofenac,Diclofenac,Injection,100 IU,Alkem,B1236,146,30,2027-02-22,2026-01-01,351.91,MediSupply,B1,Active
+MED015,Paracetamol,Paracetamol,Tablet,650 mg,Alkem,B1853,249,50,2027-06-13,2025-08-19,80.38,MediSupply,Cold Storage,Active
+MED016,ORS,ORS,Syrup,250 mg,Sun Pharma,B3525,144,50,2028-01-30,2025-02-11,450.19,HealthPlus,B2,Active
+MED017,ORS,ORS,Tablet,500 mg,Abbott,B8400,202,30,2028-01-29,2025-11-29,478.04,LifeCare,Cold Storage,Active
+MED018,Vitamin C,Vitamin C,Ointment,250 mg,Lupin,B1044,56,50,2026-05-21,2025-02-20,423.01,Prime Medics,A2,Active
+MED019,Dolo,Dolo,Syrup,500 mg,Sun Pharma,B9898,150,30,2026-06-01,2025-08-14,389.75,Prime Medics,B1,Active
+MED020,Azithromycin,Azithromycin,Injection,10 ml,Alkem,B1207,304,20,2027-05-17,2025-07-24,204.19,LifeCare,C1,Active
+MED021,ORS,ORS,Syrup,10 ml,Alkem,B2045,257,50,2026-11-23,2025-06-07,357.59,LifeCare,B2,Active
+MED022,Paracetamol,Paracetamol,Capsule,500 mg,Torrent,B7532,489,50,2026-04-17,2025-09-08,440.91,ABC Pharma,C1,Active
+MED023,Losartan,Losartan,Injection,5 ml,Cipla,B6071,350,20,2027-12-31,2025-03-27,239.94,MediSupply,A1,Active
+MED024,Cefixime,Cefixime,Syrup,100 IU,Mankind,B9288,438,30,2026-03-07,2025-09-01,434.85,HealthPlus,A1,Active
+MED025,Azithromycin,Azithromycin,Tablet,500 mg,Lupin,B8032,335,50,2027-02-04,2025-01-18,143.48,LifeCare,C2,Active
+MED026,Losartan,Losartan,Capsule,10 ml,Dr. Reddy's,B6740,45,20,2027-09-20,2025-08-23,184.93,MediSupply,A2,Active
+MED027,Paracetamol,Paracetamol,Capsule,500 mg,Abbott,B8777,106,20,2027-01-29,2025-08-27,440.26,HealthPlus,B2,Active
+MED028,ORS,ORS,Capsule,100 IU,Dr. Reddy's,B4122,230,50,2026-04-23,2025-07-18,69.77,HealthPlus,A2,Active
+MED029,Cefixime,Cefixime,Ointment,5 ml,Dr. Reddy's,B1018,221,30,2027-02-17,2025-07-07,291.42,MediSupply,B1,Active
+MED030,Ibuprofen,Ibuprofen,Tablet,650 mg,Dr. Reddy's,B3619,368,20,2026-11-30,2025-03-26,328.63,ABC Pharma,B2,Active
+MED031,Amlodipine,Amlodipine,Syrup,250 mg,Mankind,B9116,360,30,2027-11-21,2025-08-22,101.8,MediSupply,C2,Active
+MED032,Ibuprofen,Ibuprofen,Injection,250 mg,Dr. Reddy's,B3248,441,30,2026-02-11,2025-02-15,24.06,HealthPlus,Cold Storage,Active
+MED033,Cetirizine,Cetirizine,Capsule,250 mg,Cipla,B4862,200,20,2027-11-29,2025-07-22,249.59,HealthPlus,B1,Active
+MED034,Levocetirizine,Levocetirizine,Capsule,500 mg,Lupin,B1948,42,20,2026-02-09,2025-07-31,278.61,LifeCare,A1,Active
+MED035,Diclofenac,Diclofenac,Tablet,250 mg,Dr. Reddy's,B7183,435,30,2027-04-01,2025-05-24,397.53,Prime Medics,B2,Active
+MED036,Amlodipine,Amlodipine,Injection,100 IU,Mankind,B9578,69,50,2027-05-06,2025-04-12,225.11,ABC Pharma,C2,Active
+MED037,Azithromycin,Azithromycin,Syrup,10 ml,Sun Pharma,B8219,300,20,2026-09-29,2025-07-23,234.34,ABC Pharma,B2,Active
+MED038,Omeprazole,Omeprazole,Capsule,5 ml,Alkem,B3890,74,50,2026-10-14,2025-11-18,286.87,MediSupply,B1,Active
+MED039,Amoxicillin,Amoxicillin,Capsule,250 mg,Mankind,B5465,204,50,2027-10-10,2025-09-25,52.7,LifeCare,Cold Storage,Active
+MED040,Insulin,Insulin,Capsule,10 ml,Torrent,B4064,26,20,2026-03-28,2025-05-25,338.07,LifeCare,C2,Active
+MED041,Cefixime,Cefixime,Injection,10 ml,Cipla,B2318,235,50,2026-02-10,2025-02-08,438.7,LifeCare,A1,Active
+MED042,Cetirizine,Cetirizine,Capsule,5 ml,Torrent,B9602,183,20,2027-01-16,2025-09-03,99.94,ABC Pharma,C1,Active
+MED043,Ibuprofen,Ibuprofen,Injection,5 ml,Cipla,B4912,435,20,2027-07-22,2025-08-22,352.18,Prime Medics,C1,Active
+MED044,Diclofenac,Diclofenac,Ointment,10 ml,Mankind,B9923,362,20,2027-07-23,2025-02-13,8.75,MediSupply,B1,Active
+MED045,Levocetirizine,Levocetirizine,Injection,10 ml,Mankind,B7109,347,20,2026-11-05,2025-03-26,20.03,MediSupply,C1,Active
+MED046,Omeprazole,Omeprazole,Injection,500 mg,Dr. Reddy's,B8028,411,20,2028-01-13,2025-10-20,390.1,MediSupply,C1,Active
+MED047,Omeprazole,Omeprazole,Injection,250 mg,Sun Pharma,B8364,32,50,2027-04-21,2025-03-18,439.5,Prime Medics,C2,Active
+MED048,Cetirizine,Cetirizine,Capsule,5 ml,Abbott,B3167,399,20,2026-08-13,2025-09-07,88.56,HealthPlus,B2,Active
+MED049,Pantoprazole,Pantoprazole,Injection,10 ml,Sun Pharma,B2987,52,20,2027-10-09,2025-11-16,251.1,HealthPlus,A1,Active
+MED050,Ibuprofen,Ibuprofen,Capsule,5 ml,Sun Pharma,B8600,268,20,2028-03-20,2025-03-07,326.63,LifeCare,Cold Storage,Active
+MED051,Omeprazole,Omeprazole,Tablet,250 mg,Torrent,B9519,181,20,2027-01-19,2025-08-31,175.92,LifeCare,C1,Active
+MED052,Losartan,Losartan,Tablet,10 ml,Abbott,B6984,456,20,2026-08-11,2025-06-04,272.36,LifeCare,B1,Active
+MED053,Diclofenac,Diclofenac,Injection,10 ml,Torrent,B9297,330,30,2027-10-24,2025-07-18,145.9,Prime Medics,B2,Active
+MED054,Pantoprazole,Pantoprazole,Ointment,250 mg,Dr. Reddy's,B2525,134,50,2027-12-03,2025-09-28,494.23,MediSupply,Cold Storage,Active
+MED055,Salbutamol,Salbutamol,Capsule,10 ml,Torrent,B8362,465,50,2026-07-27,2025-11-23,58.43,Prime Medics,C2,Active
+MED056,Atorvastatin,Atorvastatin,Ointment,100 IU,Abbott,B5411,50,20,2027-06-03,2025-03-17,89.89,ABC Pharma,B2,Active
+MED057,Amlodipine,Amlodipine,Capsule,500 mg,Dr. Reddy's,B9209,381,50,2026-04-06,2025-05-20,359.34,HealthPlus,A2,Active
+MED058,Amlodipine,Amlodipine,Ointment,500 mg,Abbott,B8990,306,20,2026-09-03,2025-06-19,220.21,Prime Medics,Cold Storage,Active
+MED059,Losartan,Losartan,Ointment,500 mg,Lupin,B8032,86,30,2027-03-23,2025-03-01,337.44,MediSupply,B2,Active
+MED060,Levocetirizine,Levocetirizine,Ointment,650 mg,Torrent,B7685,430,20,2027-07-10,2025-02-06,130.01,MediSupply,B1,Active
+MED061,Amlodipine,Amlodipine,Tablet,250 mg,Dr. Reddy's,B1998,55,30,2028-01-22,2025-03-11,346.77,ABC Pharma,B1,Active
+MED062,Vitamin C,Vitamin C,Ointment,250 mg,Abbott,B8152,28,30,2027-01-31,2025-03-19,172.95,LifeCare,A1,Active
+MED063,Vitamin C,Vitamin C,Tablet,500 mg,Lupin,B3844,426,20,2026-02-24,2025-11-28,231.71,HealthPlus,C1,Active
+MED064,Amlodipine,Amlodipine,Syrup,5 ml,Dr. Reddy's,B3078,376,30,2026-09-17,2025-06-26,343.92,MediSupply,A2,Active
+MED065,Calcium,Calcium,Injection,5 ml,Mankind,B2169,265,20,2027-02-09,2025-11-15,293.37,Prime Medics,B2,Active
+MED066,Levocetirizine,Levocetirizine,Syrup,5 ml,Lupin,B7001,199,20,2028-04-15,2025-01-24,191.52,MediSupply,C2,Active
+MED067,Levocetirizine,Levocetirizine,Injection,100 IU,Cipla,B2334,469,50,2027-05-03,2025-11-23,277.26,Prime Medics,C1,Active
+MED068,Losartan,Losartan,Capsule,500 mg,Torrent,B4190,272,20,2027-10-04,2025-07-03,338.0,MediSupply,A1,Active
+MED069,Calcium,Calcium,Tablet,250 mg,Cipla,B1679,199,30,2026-12-21,2025-05-02,363.77,ABC Pharma,A2,Active
+MED070,Salbutamol,Salbutamol,Syrup,100 IU,Dr. Reddy's,B4429,92,30,2027-05-24,2025-07-26,383.87,MediSupply,C1,Active
+MED071,Insulin,Insulin,Ointment,500 mg,Lupin,B6613,150,30,2027-09-27,2025-09-20,427.67,HealthPlus,Cold Storage,Active
+MED072,Atorvastatin,Atorvastatin,Tablet,500 mg,Sun Pharma,B3443,487,20,2028-02-19,2025-10-20,226.65,MediSupply,A2,Active
+MED073,Levocetirizine,Levocetirizine,Tablet,100 IU,Alkem,B7815,498,20,2026-04-15,2025-01-12,442.0,MediSupply,A1,Active
+MED074,Azithromycin,Azithromycin,Tablet,10 ml,Torrent,B2420,394,50,2028-06-16,2025-10-24,439.93,Prime Medics,B2,Active
+MED075,Vitamin C,Vitamin C,Ointment,10 ml,Abbott,B6897,35,20,2026-12-21,2025-05-28,244.91,MediSupply,Cold Storage,Active
+MED076,Paracetamol,Paracetamol,Injection,500 mg,Cipla,B4611,456,30,2026-05-04,2025-08-09,452.19,LifeCare,B1,Active
+MED077,ORS,ORS,Ointment,500 mg,Cipla,B9156,292,50,2026-02-10,2025-08-03,153.06,ABC Pharma,A1,Active
+MED078,Amlodipine,Amlodipine,Syrup,10 ml,Lupin,B1174,410,20,2026-06-25,2025-07-23,232.87,LifeCare,C1,Active
+MED079,Insulin,Insulin,Syrup,500 mg,Sun Pharma,B6137,395,50,2027-08-05,2025-02-04,14.37,ABC Pharma,Cold Storage,Active
+MED080,Metformin,Metformin,Tablet,650 mg,Mankind,B6176,29,30,2027-11-16,2025-10-10,295.15,ABC Pharma,C1,Active
+MED081,Amlodipine,Amlodipine,Tablet,250 mg,Abbott,B4388,324,30,2026-06-16,2025-06-17,324.35,Prime Medics,C1,Active
+MED082,Dolo,Dolo,Tablet,10 ml,Abbott,B1980,51,50,2026-08-31,2025-04-14,194.66,HealthPlus,B2,Active
+MED083,Cefixime,Cefixime,Ointment,5 ml,Alkem,B3636,75,50,2028-05-11,2025-11-09,377.85,MediSupply,A1,Active
+MED084,Diclofenac,Diclofenac,Injection,100 IU,Mankind,B7749,353,20,2026-11-07,2025-01-12,497.45,HealthPlus,C2,Active
+MED085,Ibuprofen,Ibuprofen,Tablet,500 mg,Alkem,B7514,418,50,2026-10-09,2025-01-31,211.86,MediSupply,C1,Active
+MED086,Amoxicillin,Amoxicillin,Ointment,500 mg,Abbott,B5482,126,20,2027-04-15,2025-08-07,157.42,ABC Pharma,C1,Active
+MED087,ORS,ORS,Ointment,100 IU,Lupin,B6032,449,20,2027-04-11,2025-06-22,484.09,MediSupply,B2,Active
+MED088,Cefixime,Cefixime,Injection,10 ml,Mankind,B1396,319,20,2027-05-08,2025-12-18,243.19,HealthPlus,A1,Active
+MED089,Metformin,Metformin,Tablet,10 ml,Dr. Reddy's,B1989,281,20,2027-03-04,2025-06-10,225.65,Prime Medics,A1,Active
+MED090,Cefixime,Cefixime,Injection,250 mg,Torrent,B4776,343,30,2027-06-16,2025-08-14,372.73,ABC Pharma,C1,Active
+MED091,Dolo,Dolo,Capsule,650 mg,Alkem,B9012,325,50,2026-06-29,2025-02-28,341.24,Prime Medics,C1,Active
+MED092,Levocetirizine,Levocetirizine,Syrup,10 ml,Dr. Reddy's,B8884,179,20,2026-09-17,2025-10-07,108.21,LifeCare,A1,Active
+MED093,Calcium,Calcium,Injection,500 mg,Cipla,B2219,30,30,2026-06-07,2025-01-31,453.36,HealthPlus,Cold Storage,Active
+MED094,Dolo,Dolo,Capsule,250 mg,Abbott,B4285,346,50,2026-05-29,2025-09-04,221.91,ABC Pharma,C1,Active
+MED095,Diclofenac,Diclofenac,Syrup,500 mg,Cipla,B7422,129,50,2027-01-24,2025-05-17,161.74,ABC Pharma,A2,Active
+MED096,Diclofenac,Diclofenac,Tablet,10 ml,Dr. Reddy's,B1125,310,30,2028-01-01,2025-01-07,461.0,HealthPlus,Cold Storage,Active
+MED097,Amlodipine,Amlodipine,Ointment,650 mg,Dr. Reddy's,B1306,48,50,2028-01-07,2025-02-22,419.43,Prime Medics,C2,Active
+MED098,Paracetamol,Paracetamol,Tablet,10 ml,Sun Pharma,B7954,118,20,2028-04-27,2025-09-22,249.55,HealthPlus,Cold Storage,Active
+MED099,Omeprazole,Omeprazole,Injection,100 IU,Cipla,B6041,405,20,2027-03-06,2025-02-25,353.74,HealthPlus,C2,Active
+MED100,Diclofenac,Diclofenac,Tablet,250 mg,Lupin,B6632,240,20,2026-03-10,2025-02-19,237.47,Prime Medics,B2,Active
+MED101,Levocetirizine,Levocetirizine,Tablet,100 IU,Alkem,B5108,339,50,2027-08-17,2025-06-21,376.42,Prime Medics,A2,Active
+MED102,Dolo,Dolo,Tablet,250 mg,Sun Pharma,B5519,471,30,2027-03-23,2025-12-25,473.25,HealthPlus,B1,Active
+MED103,Cefixime,Cefixime,Tablet,5 ml,Alkem,B2298,175,20,2027-09-01,2025-03-01,79.0,HealthPlus,C1,Active
+MED104,Azithromycin,Azithromycin,Syrup,5 ml,Dr. Reddy's,B9012,460,30,2026-08-16,2025-03-18,204.7,HealthPlus,Cold Storage,Active
+MED105,Salbutamol,Salbutamol,Tablet,100 IU,Torrent,B2978,63,50,2027-06-16,2025-04-27,439.2,HealthPlus,A2,Active
+MED106,Dolo,Dolo,Tablet,100 IU,Lupin,B5525,130,30,2027-05-09,2025-09-10,288.66,Prime Medics,C2,Active
+MED107,Pantoprazole,Pantoprazole,Injection,250 mg,Mankind,B9543,84,50,2028-06-12,2025-11-04,41.54,LifeCare,A1,Active
+MED108,Levocetirizine,Levocetirizine,Injection,650 mg,Torrent,B7235,496,50,2027-01-09,2025-12-29,79.07,HealthPlus,B1,Active
+MED109,Insulin,Insulin,Injection,100 IU,Abbott,B7917,283,30,2026-08-11,2025-03-06,91.47,LifeCare,Cold Storage,Active
+MED110,Metformin,Metformin,Injection,500 mg,Cipla,B4698,32,50,2028-03-16,2025-02-23,475.73,LifeCare,Cold Storage,Active
+MED111,Paracetamol,Paracetamol,Ointment,650 mg,Lupin,B1809,113,30,2027-08-08,2025-01-02,130.96,ABC Pharma,C2,Active
+MED112,Insulin,Insulin,Injection,5 ml,Alkem,B7439,477,50,2026-03-01,2025-09-15,14.8,LifeCare,B2,Active
+MED113,Calcium,Calcium,Tablet,10 ml,Cipla,B5563,40,20,2026-05-29,2025-08-08,357.67,MediSupply,B1,Active
+MED114,Diclofenac,Diclofenac,Ointment,100 IU,Dr. Reddy's,B2283,9,20,2027-08-20,2025-09-25,64.08,LifeCare,A2,Active
+MED115,Omeprazole,Omeprazole,Ointment,250 mg,Torrent,B9132,397,30,2028-04-21,2025-06-03,221.18,HealthPlus,C2,Active
+MED116,Paracetamol,Paracetamol,Ointment,10 ml,Torrent,B9024,160,30,2026-08-25,2025-07-05,137.64,HealthPlus,C2,Active
+MED117,Dolo,Dolo,Tablet,650 mg,Torrent,B4442,300,20,2027-05-15,2025-08-01,26.83,Prime Medics,Cold Storage,Active
+MED118,Vitamin C,Vitamin C,Tablet,5 ml,Alkem,B3893,425,30,2027-05-01,2025-10-04,330.58,MediSupply,Cold Storage,Active
+MED119,Azithromycin,Azithromycin,Syrup,10 ml,Mankind,B6524,322,20,2028-06-17,2025-09-22,218.29,ABC Pharma,A2,Active
+MED120,Atorvastatin,Atorvastatin,Injection,5 ml,Alkem,B6457,203,30,2027-10-22,2025-02-03,226.83,ABC Pharma,A2,Active
+MED121,Calcium,Calcium,Injection,500 mg,Sun Pharma,B5511,372,30,2028-04-26,2025-01-18,393.94,LifeCare,C1,Active
+MED122,ORS,ORS,Syrup,100 IU,Abbott,B5880,196,50,2028-04-08,2025-07-13,43.53,LifeCare,B1,Active
+MED123,Amoxicillin,Amoxicillin,Ointment,100 IU,Dr. Reddy's,B6751,347,30,2026-08-20,2025-06-12,295.8,ABC Pharma,A2,Active
+MED124,Salbutamol,Salbutamol,Capsule,10 ml,Cipla,B5404,500,50,2027-04-01,2025-11-17,249.62,LifeCare,C2,Active
+MED125,Vitamin C,Vitamin C,Capsule,5 ml,Sun Pharma,B5667,108,30,2027-07-30,2025-02-28,159.57,Prime Medics,B1,Active
+MED126,Pantoprazole,Pantoprazole,Injection,5 ml,Sun Pharma,B6053,183,20,2026-02-20,2025-10-18,195.24,Prime Medics,Cold Storage,Active
+MED127,Paracetamol,Paracetamol,Tablet,250 mg,Sun Pharma,B4430,397,50,2028-06-10,2025-04-11,203.36,HealthPlus,A2,Active
+MED128,Amoxicillin,Amoxicillin,Injection,500 mg,Dr. Reddy's,B5011,102,20,2027-07-29,2025-09-04,22.31,ABC Pharma,A1,Active
+MED129,Cefixime,Cefixime,Syrup,5 ml,Cipla,B8530,283,30,2026-03-02,2025-09-20,14.84,Prime Medics,B1,Active
+MED130,Amlodipine,Amlodipine,Tablet,5 ml,Dr. Reddy's,B1438,311,30,2027-04-26,2025-05-15,240.81,Prime Medics,C2,Active
+MED131,Losartan,Losartan,Tablet,500 mg,Sun Pharma,B7968,468,30,2028-01-26,2025-08-16,197.09,HealthPlus,A2,Active
+MED132,Paracetamol,Paracetamol,Tablet,500 mg,Cipla,B8188,382,50,2027-08-24,2025-10-29,218.83,HealthPlus,A2,Active
+MED133,Amoxicillin,Amoxicillin,Capsule,10 ml,Cipla,B2375,157,50,2027-07-10,2025-12-29,225.19,MediSupply,Cold Storage,Active
+MED134,Cetirizine,Cetirizine,Ointment,10 ml,Lupin,B1377,264,20,2026-04-27,2025-04-29,459.35,ABC Pharma,C2,Active
+MED135,Amoxicillin,Amoxicillin,Tablet,500 mg,Cipla,B4927,19,20,2026-08-11,2025-01-11,413.14,ABC Pharma,C1,Active
+MED136,Insulin,Insulin,Capsule,650 mg,Cipla,B2654,173,50,2026-10-09,2025-09-16,348.44,Prime Medics,B2,Active
+MED137,Omeprazole,Omeprazole,Capsule,5 ml,Lupin,B7573,418,20,2027-12-31,2025-06-16,132.79,MediSupply,C1,Active
+MED138,Omeprazole,Omeprazole,Ointment,10 ml,Torrent,B1416,328,30,2028-05-04,2025-12-10,35.57,Prime Medics,A1,Active
+MED139,Amlodipine,Amlodipine,Injection,100 IU,Mankind,B6231,83,50,2026-08-23,2025-02-17,392.9,HealthPlus,A1,Active
+MED140,Diclofenac,Diclofenac,Tablet,500 mg,Cipla,B9926,119,20,2027-08-30,2025-11-22,310.99,ABC Pharma,A2,Active
+MED141,Ibuprofen,Ibuprofen,Ointment,650 mg,Dr. Reddy's,B2839,289,50,2027-08-18,2025-09-04,364.62,HealthPlus,C1,Active
+MED142,Ibuprofen,Ibuprofen,Syrup,10 ml,Lupin,B5456,389,50,2027-11-20,2025-06-11,305.07,ABC Pharma,C2,Active
+MED143,Pantoprazole,Pantoprazole,Tablet,250 mg,Lupin,B8840,101,50,2028-04-21,2025-11-15,34.05,ABC Pharma,B2,Active
+MED144,Cefixime,Cefixime,Capsule,100 IU,Torrent,B4760,160,30,2026-05-19,2025-06-24,174.56,Prime Medics,C1,Active
+MED145,Insulin,Insulin,Ointment,650 mg,Sun Pharma,B6910,275,20,2026-12-27,2025-03-07,303.42,ABC Pharma,B1,Active
+MED146,Diclofenac,Diclofenac,Ointment,250 mg,Mankind,B1585,332,50,2026-07-03,2025-05-07,51.19,HealthPlus,B2,Active
+MED147,Levocetirizine,Levocetirizine,Ointment,100 IU,Cipla,B6574,1,20,2026-08-24,2025-01-24,55.99,MediSupply,A1,Active
+MED148,Azithromycin,Azithromycin,Injection,500 mg,Alkem,B5802,265,30,2026-08-19,2025-05-17,41.25,ABC Pharma,B1,Active
+MED149,Azithromycin,Azithromycin,Syrup,650 mg,Lupin,B3127,152,50,2028-02-21,2025-01-01,335.21,LifeCare,Cold Storage,Active
+MED150,Atorvastatin,Atorvastatin,Injection,100 IU,Alkem,B6878,442,20,2028-05-16,2025-07-23,128.61,ABC Pharma,B1,Active
+MED151,Azithromycin,Azithromycin,Syrup,5 ml,Abbott,B6054,488,50,2027-10-03,2025-04-29,237.87,MediSupply,A2,Active
+MED152,Omeprazole,Omeprazole,Ointment,250 mg,Lupin,B7699,245,20,2027-10-18,2025-10-07,124.79,MediSupply,C1,Active
+MED153,Ibuprofen,Ibuprofen,Syrup,100 IU,Torrent,B4491,439,30,2027-11-23,2025-06-05,163.08,ABC Pharma,C1,Active
+MED154,Diclofenac,Diclofenac,Tablet,5 ml,Torrent,B8311,375,20,2027-06-01,2025-06-11,208.84,HealthPlus,C2,Active
+MED155,Losartan,Losartan,Ointment,250 mg,Abbott,B8809,126,50,2027-03-14,2025-04-30,305.15,LifeCare,A2,Active
+MED156,Cefixime,Cefixime,Syrup,650 mg,Alkem,B8318,370,50,2026-05-15,2025-04-09,315.66,HealthPlus,A1,Active
+MED157,Paracetamol,Paracetamol,Injection,500 mg,Abbott,B1060,44,50,2026-02-07,2025-12-14,151.6,ABC Pharma,A2,Active
+MED158,Omeprazole,Omeprazole,Syrup,5 ml,Sun Pharma,B8938,89,50,2026-05-07,2025-09-20,449.39,HealthPlus,Cold Storage,Active
+MED159,Azithromycin,Azithromycin,Ointment,10 ml,Lupin,B6557,181,50,2027-07-03,2025-09-02,77.08,HealthPlus,A2,Active
+MED160,Amoxicillin,Amoxicillin,Ointment,5 ml,Cipla,B4604,244,20,2027-07-06,2025-11-11,492.77,LifeCare,B1,Active
+MED161,Atorvastatin,Atorvastatin,Capsule,100 IU,Torrent,B8271,64,20,2028-02-20,2025-11-26,448.45,ABC Pharma,B1,Active
+MED162,Salbutamol,Salbutamol,Capsule,10 ml,Cipla,B4959,175,50,2026-06-28,2025-04-11,332.83,LifeCare,A1,Active
+MED163,Salbutamol,Salbutamol,Syrup,5 ml,Alkem,B8798,110,30,2027-06-20,2025-05-30,10.48,MediSupply,C2,Active
+MED164,Omeprazole,Omeprazole,Capsule,10 ml,Cipla,B6203,183,50,2026-03-12,2025-12-31,410.96,LifeCare,B2,Active
+MED165,ORS,ORS,Capsule,5 ml,Mankind,B6535,173,30,2026-07-31,2025-12-11,293.53,ABC Pharma,C2,Active
+MED166,Paracetamol,Paracetamol,Injection,10 ml,Dr. Reddy's,B3213,219,20,2026-10-19,2025-08-28,291.15,ABC Pharma,C2,Active
+MED167,Metformin,Metformin,Capsule,10 ml,Lupin,B3219,361,50,2027-11-22,2025-06-09,330.73,LifeCare,A2,Active
+MED168,Salbutamol,Salbutamol,Injection,5 ml,Lupin,B5553,8,30,2027-07-06,2025-04-05,39.96,MediSupply,B1,Active
+MED169,Ibuprofen,Ibuprofen,Capsule,5 ml,Torrent,B3106,181,30,2026-11-14,2025-08-13,88.45,ABC Pharma,C1,Active
+MED170,Dolo,Dolo,Ointment,650 mg,Dr. Reddy's,B9775,449,50,2027-03-11,2025-10-12,237.39,HealthPlus,B2,Active
+MED171,Amlodipine,Amlodipine,Injection,500 mg,Torrent,B7284,484,20,2027-03-07,2025-05-31,491.07,MediSupply,B2,Active
+MED172,Losartan,Losartan,Tablet,500 mg,Mankind,B2391,8,20,2028-03-10,2025-11-16,9.7,MediSupply,C1,Active
+MED173,Salbutamol,Salbutamol,Capsule,10 ml,Cipla,B9559,487,20,2027-07-01,2025-04-09,416.52,LifeCare,Cold Storage,Active
+MED174,Amoxicillin,Amoxicillin,Tablet,10 ml,Cipla,B1340,22,50,2028-03-14,2025-03-10,193.76,Prime Medics,A1,Active
+MED175,Azithromycin,Azithromycin,Syrup,250 mg,Dr. Reddy's,B9168,205,20,2026-07-21,2025-01-16,246.38,Prime Medics,B1,Active
+MED176,Diclofenac,Diclofenac,Injection,100 IU,Torrent,B9821,310,50,2026-02-07,2025-12-01,434.21,HealthPlus,C1,Active
+MED177,Losartan,Losartan,Capsule,5 ml,Cipla,B1334,317,50,2027-03-01,2025-06-29,494.73,Prime Medics,A1,Active
+MED178,Dolo,Dolo,Tablet,10 ml,Mankind,B8704,325,50,2026-12-14,2025-10-25,71.58,LifeCare,Cold Storage,Active
+MED179,Amoxicillin,Amoxicillin,Injection,250 mg,Abbott,B9730,375,50,2027-06-22,2026-01-01,253.14,MediSupply,A1,Active
+MED180,ORS,ORS,Syrup,5 ml,Lupin,B2206,411,20,2027-11-01,2025-06-07,364.53,Prime Medics,A1,Active
+MED181,Atorvastatin,Atorvastatin,Ointment,650 mg,Lupin,B1488,446,50,2027-09-12,2025-08-09,91.76,LifeCare,Cold Storage,Active
+MED182,Insulin,Insulin,Capsule,650 mg,Mankind,B9933,286,20,2026-11-02,2025-04-27,100.58,HealthPlus,A1,Active
+MED183,Salbutamol,Salbutamol,Syrup,5 ml,Mankind,B8852,261,30,2026-10-02,2025-01-07,183.37,HealthPlus,C1,Active
+MED184,Levocetirizine,Levocetirizine,Syrup,5 ml,Abbott,B1149,135,20,2026-10-26,2025-07-24,131.97,Prime Medics,A2,Active
+MED185,Paracetamol,Paracetamol,Ointment,100 IU,Cipla,B6934,403,20,2026-11-02,2025-06-12,466.78,Prime Medics,Cold Storage,Active
+MED186,Amoxicillin,Amoxicillin,Ointment,250 mg,Dr. Reddy's,B4098,302,30,2026-10-27,2025-06-05,52.12,LifeCare,C2,Active
+MED187,Losartan,Losartan,Capsule,650 mg,Alkem,B8974,4,20,2026-11-17,2025-02-05,395.76,HealthPlus,A2,Active
+MED188,Dolo,Dolo,Capsule,10 ml,Mankind,B6541,370,20,2027-07-17,2025-08-07,100.37,LifeCare,B1,Active
+MED189,Calcium,Calcium,Capsule,10 ml,Alkem,B9976,183,50,2026-05-29,2025-03-16,276.15,ABC Pharma,B2,Active
+MED190,Diclofenac,Diclofenac,Capsule,10 ml,Abbott,B8850,384,50,2028-04-29,2025-11-20,114.49,LifeCare,A1,Active
+MED191,Dolo,Dolo,Injection,500 mg,Alkem,B8732,214,20,2028-02-28,2025-06-05,452.13,MediSupply,B2,Active
+MED192,Vitamin C,Vitamin C,Ointment,650 mg,Abbott,B4853,90,30,2026-04-28,2025-04-06,392.37,LifeCare,C1,Active
+MED193,Diclofenac,Diclofenac,Ointment,10 ml,Abbott,B6546,146,20,2027-01-28,2025-12-07,109.42,ABC Pharma,B1,Active
+MED194,Cefixime,Cefixime,Syrup,250 mg,Abbott,B1547,181,50,2027-03-12,2025-10-05,61.09,HealthPlus,A2,Active
+MED195,Diclofenac,Diclofenac,Syrup,100 IU,Abbott,B1399,461,20,2026-08-10,2025-07-02,191.08,ABC Pharma,B1,Active
+MED196,Ibuprofen,Ibuprofen,Capsule,250 mg,Torrent,B5085,129,20,2026-12-28,2025-03-27,417.55,HealthPlus,C2,Active
+MED197,Vitamin C,Vitamin C,Syrup,650 mg,Abbott,B3045,67,50,2027-08-21,2025-12-12,277.22,HealthPlus,B2,Active
+MED198,Salbutamol,Salbutamol,Tablet,250 mg,Mankind,B4099,343,50,2027-10-19,2025-08-21,91.5,HealthPlus,B1,Active
+MED199,Cetirizine,Cetirizine,Ointment,500 mg,Alkem,B1959,407,20,2026-08-30,2025-04-10,11.57,MediSupply,B2,Active
+MED200,Levocetirizine,Levocetirizine,Syrup,10 ml,Torrent,B6573,1,30,2027-04-01,2025-03-04,493.29,MediSupply,B2,Active
+MED201,Paracetamol,Paracetamol,Injection,100 IU,Sun Pharma,B9257,21,20,2027-01-07,2025-05-02,430.05,MediSupply,A1,Active
+MED202,Levocetirizine,Levocetirizine,Capsule,5 ml,Sun Pharma,B8641,256,20,2027-05-14,2025-07-15,78.16,HealthPlus,C2,Active
+MED203,Insulin,Insulin,Injection,500 mg,Cipla,B3746,72,30,2027-03-08,2025-07-23,146.95,MediSupply,B2,Active
+MED204,Omeprazole,Omeprazole,Injection,250 mg,Dr. Reddy's,B5256,170,50,2026-03-05,2025-08-15,402.24,Prime Medics,C2,Active
+MED205,Vitamin C,Vitamin C,Injection,5 ml,Mankind,B8752,137,50,2027-01-03,2025-08-09,289.28,MediSupply,Cold Storage,Active
+MED206,Amoxicillin,Amoxicillin,Injection,500 mg,Torrent,B9486,447,50,2026-04-20,2025-06-02,341.7,MediSupply,A2,Active
+MED207,Salbutamol,Salbutamol,Tablet,250 mg,Alkem,B4723,251,20,2028-02-12,2025-04-02,191.3,ABC Pharma,A1,Active
+MED208,Azithromycin,Azithromycin,Capsule,500 mg,Abbott,B2786,49,30,2026-08-29,2025-04-12,6.58,ABC Pharma,C2,Active
+MED209,Amlodipine,Amlodipine,Injection,500 mg,Mankind,B8226,199,30,2027-04-30,2025-08-21,207.46,MediSupply,C1,Active
+MED210,Salbutamol,Salbutamol,Injection,500 mg,Sun Pharma,B2499,318,20,2027-03-17,2025-12-11,118.16,HealthPlus,A2,Active
+MED211,Dolo,Dolo,Capsule,500 mg,Lupin,B1682,4,30,2026-10-02,2025-12-15,101.73,HealthPlus,Cold Storage,Active
+MED212,Ibuprofen,Ibuprofen,Ointment,5 ml,Dr. Reddy's,B3914,194,30,2027-05-12,2025-04-22,480.72,Prime Medics,Cold Storage,Active
+MED213,Atorvastatin,Atorvastatin,Tablet,500 mg,Torrent,B5283,66,20,2027-10-15,2025-07-05,371.27,Prime Medics,B2,Active
+MED214,Levocetirizine,Levocetirizine,Injection,650 mg,Lupin,B1933,131,30,2027-03-27,2025-10-31,280.46,Prime Medics,Cold Storage,Active
+MED215,Losartan,Losartan,Capsule,500 mg,Cipla,B6476,222,20,2026-08-15,2025-09-06,336.21,LifeCare,A1,Active
+MED216,Azithromycin,Azithromycin,Syrup,650 mg,Alkem,B6488,382,20,2026-09-04,2025-01-08,65.65,LifeCare,C1,Active
+MED217,Salbutamol,Salbutamol,Injection,100 IU,Alkem,B8799,267,20,2026-12-31,2025-06-08,30.89,Prime Medics,B1,Active
+MED218,Vitamin C,Vitamin C,Tablet,10 ml,Mankind,B3694,107,50,2026-11-02,2025-06-01,70.47,HealthPlus,C2,Active
+MED219,Metformin,Metformin,Syrup,100 IU,Alkem,B5272,348,50,2026-07-14,2025-09-03,26.77,HealthPlus,A2,Active
+MED220,Insulin,Insulin,Capsule,250 mg,Sun Pharma,B2353,158,30,2028-03-11,2025-08-15,496.6,HealthPlus,B1,Active
+MED221,Diclofenac,Diclofenac,Tablet,100 IU,Mankind,B1427,37,20,2026-10-04,2025-10-28,231.38,LifeCare,C2,Active
+MED222,Paracetamol,Paracetamol,Injection,250 mg,Mankind,B8770,305,30,2026-02-26,2025-01-01,316.35,LifeCare,C2,Active
+MED223,Vitamin C,Vitamin C,Tablet,100 IU,Dr. Reddy's,B3409,410,20,2027-05-28,2025-11-17,356.69,MediSupply,C1,Active
+MED224,Paracetamol,Paracetamol,Syrup,5 ml,Abbott,B8299,494,20,2027-04-25,2025-10-15,412.73,LifeCare,B1,Active
+MED225,Cetirizine,Cetirizine,Capsule,100 IU,Cipla,B8074,213,30,2027-01-24,2025-06-09,332.38,MediSupply,B2,Active
+MED226,Amlodipine,Amlodipine,Ointment,10 ml,Cipla,B5351,498,20,2028-06-11,2025-03-22,127.95,ABC Pharma,C1,Active
+MED227,Losartan,Losartan,Capsule,500 mg,Dr. Reddy's,B8986,425,50,2026-11-20,2025-12-26,119.58,MediSupply,C2,Active
+MED228,Dolo,Dolo,Capsule,100 IU,Sun Pharma,B5084,233,50,2028-04-23,2025-07-11,335.26,ABC Pharma,Cold Storage,Active
+MED229,Dolo,Dolo,Injection,650 mg,Sun Pharma,B7665,294,30,2027-07-18,2025-06-18,305.9,Prime Medics,A2,Active
+MED230,Atorvastatin,Atorvastatin,Ointment,100 IU,Sun Pharma,B1168,490,20,2026-03-29,2025-12-21,489.22,ABC Pharma,C1,Active
+MED231,Losartan,Losartan,Syrup,650 mg,Abbott,B1591,489,50,2027-04-30,2025-11-18,156.3,ABC Pharma,B2,Active
+MED232,Cefixime,Cefixime,Injection,5 ml,Dr. Reddy's,B6818,452,30,2026-03-27,2025-10-05,442.17,HealthPlus,A2,Active
+MED233,Atorvastatin,Atorvastatin,Capsule,650 mg,Torrent,B1643,289,50,2026-09-17,2025-02-21,163.18,HealthPlus,C2,Active
+MED234,Amlodipine,Amlodipine,Syrup,250 mg,Mankind,B2289,355,20,2026-09-14,2025-12-21,428.93,HealthPlus,C1,Active
+MED235,Cefixime,Cefixime,Tablet,250 mg,Cipla,B8192,273,20,2027-05-04,2025-04-14,66.93,HealthPlus,B1,Active
+MED236,Insulin,Insulin,Syrup,500 mg,Cipla,B9342,205,30,2028-04-07,2025-09-25,299.97,ABC Pharma,A1,Active
+MED237,Cefixime,Cefixime,Injection,5 ml,Cipla,B9124,182,30,2026-12-21,2025-04-17,264.19,HealthPlus,B1,Active
+MED238,Salbutamol,Salbutamol,Ointment,650 mg,Mankind,B6616,113,30,2027-11-06,2025-02-22,302.61,LifeCare,A2,Active
+MED239,Vitamin C,Vitamin C,Capsule,250 mg,Sun Pharma,B7892,449,20,2028-04-04,2025-07-02,450.85,ABC Pharma,B2,Active
+MED240,Losartan,Losartan,Injection,650 mg,Lupin,B2313,25,20,2028-02-29,2025-04-14,320.28,LifeCare,C2,Active
+MED241,Diclofenac,Diclofenac,Injection,100 IU,Sun Pharma,B1131,267,50,2027-10-06,2025-07-15,414.03,Prime Medics,C2,Active
+MED242,Insulin,Insulin,Tablet,5 ml,Mankind,B3944,155,50,2028-01-13,2025-06-27,443.77,Prime Medics,C1,Active
+MED243,Amlodipine,Amlodipine,Syrup,500 mg,Abbott,B1449,203,50,2028-05-18,2025-01-13,293.14,Prime Medics,A1,Active
+MED244,Pantoprazole,Pantoprazole,Ointment,10 ml,Mankind,B5991,246,50,2027-01-24,2025-11-11,435.73,ABC Pharma,C2,Active
+MED245,Calcium,Calcium,Ointment,10 ml,Mankind,B8324,357,20,2026-08-14,2025-12-24,54.08,LifeCare,B1,Active
+MED246,Diclofenac,Diclofenac,Capsule,250 mg,Sun Pharma,B3938,341,20,2027-01-20,2025-04-15,59.15,ABC Pharma,C2,Active
+MED247,Diclofenac,Diclofenac,Capsule,500 mg,Dr. Reddy's,B5013,412,50,2027-06-07,2025-07-27,87.18,HealthPlus,A1,Active
+MED248,Cefixime,Cefixime,Ointment,10 ml,Alkem,B1818,201,30,2027-03-19,2025-05-19,418.55,HealthPlus,C2,Active
+MED249,Pantoprazole,Pantoprazole,Ointment,500 mg,Cipla,B4320,466,20,2026-08-20,2025-09-11,53.89,ABC Pharma,A1,Active
+MED250,Cetirizine,Cetirizine,Injection,650 mg,Sun Pharma,B6898,276,50,2026-05-06,2025-01-19,181.64,HealthPlus,B1,Active
+MED251,Azithromycin,Azithromycin,Tablet,500 mg,Lupin,B8917,457,50,2026-09-16,2025-06-19,59.88,ABC Pharma,A2,Active
+MED252,Dolo,Dolo,Injection,10 ml,Alkem,B9239,423,50,2026-12-23,2025-04-22,442.45,MediSupply,Cold Storage,Active
+MED253,Diclofenac,Diclofenac,Syrup,500 mg,Sun Pharma,B3792,481,30,2026-03-15,2025-06-14,445.23,LifeCare,B2,Active
+MED254,Vitamin C,Vitamin C,Capsule,100 IU,Abbott,B2415,216,20,2026-04-07,2025-06-01,92.23,HealthPlus,A2,Active
+MED255,Amlodipine,Amlodipine,Syrup,10 ml,Dr. Reddy's,B2984,56,50,2028-05-07,2025-11-04,5.62,MediSupply,B2,Active
+MED256,Ibuprofen,Ibuprofen,Injection,100 IU,Dr. Reddy's,B2982,395,20,2028-05-11,2025-06-01,376.11,Prime Medics,B1,Active
+MED257,Dolo,Dolo,Injection,500 mg,Alkem,B9433,361,20,2027-06-28,2025-07-08,174.41,Prime Medics,Cold Storage,Active
+MED258,Salbutamol,Salbutamol,Injection,250 mg,Sun Pharma,B9422,368,50,2027-04-19,2025-05-31,324.9,LifeCare,C1,Active
+MED259,Losartan,Losartan,Tablet,250 mg,Alkem,B5323,15,20,2026-02-24,2025-10-13,305.08,MediSupply,A2,Active
+MED260,Azithromycin,Azithromycin,Ointment,10 ml,Cipla,B1558,151,20,2028-03-13,2025-12-21,314.41,MediSupply,B2,Active
+MED261,Paracetamol,Paracetamol,Ointment,5 ml,Sun Pharma,B4489,406,50,2027-12-30,2025-06-23,256.28,MediSupply,Cold Storage,Active
+MED262,Salbutamol,Salbutamol,Tablet,650 mg,Sun Pharma,B4500,236,20,2026-11-24,2025-09-16,178.81,ABC Pharma,C1,Active
+MED263,Paracetamol,Paracetamol,Injection,650 mg,Torrent,B2500,422,50,2027-02-11,2025-11-12,54.7,ABC Pharma,B1,Active
+MED264,Calcium,Calcium,Tablet,650 mg,Cipla,B4007,115,30,2027-04-16,2025-10-09,239.33,ABC Pharma,C2,Active
+MED265,Insulin,Insulin,Capsule,5 ml,Sun Pharma,B6719,424,30,2028-01-13,2025-07-05,238.87,MediSupply,B2,Active
+MED266,Omeprazole,Omeprazole,Tablet,500 mg,Torrent,B3345,98,20,2028-01-17,2025-02-02,136.13,MediSupply,A2,Active
+MED267,Metformin,Metformin,Ointment,5 ml,Abbott,B9379,108,50,2027-04-16,2025-12-20,482.04,ABC Pharma,C2,Active
+MED268,Omeprazole,Omeprazole,Capsule,10 ml,Sun Pharma,B8184,12,50,2026-04-23,2025-08-14,19.56,MediSupply,Cold Storage,Active
+MED269,Vitamin C,Vitamin C,Syrup,650 mg,Sun Pharma,B2554,442,50,2026-08-22,2025-09-13,161.78,LifeCare,B1,Active
+MED270,Pantoprazole,Pantoprazole,Injection,650 mg,Alkem,B1282,348,50,2027-08-26,2025-09-08,308.02,Prime Medics,B1,Active
+MED271,Dolo,Dolo,Tablet,500 mg,Torrent,B2258,118,30,2026-12-13,2025-07-07,109.24,LifeCare,C2,Active
+MED272,Levocetirizine,Levocetirizine,Capsule,500 mg,Sun Pharma,B6989,81,20,2027-10-22,2025-10-27,480.95,ABC Pharma,B2,Active
+MED273,Metformin,Metformin,Injection,100 IU,Abbott,B6257,84,20,2026-03-14,2025-07-13,314.13,Prime Medics,B1,Active
+MED274,Ibuprofen,Ibuprofen,Capsule,10 ml,Lupin,B6895,478,30,2027-10-29,2025-08-22,164.32,HealthPlus,C2,Active
+MED275,Calcium,Calcium,Capsule,5 ml,Alkem,B6065,21,50,2026-08-23,2025-07-13,321.68,MediSupply,B1,Active
+MED276,Atorvastatin,Atorvastatin,Syrup,500 mg,Sun Pharma,B8842,373,50,2027-12-08,2025-05-07,370.83,LifeCare,Cold Storage,Active
+MED277,ORS,ORS,Capsule,10 ml,Abbott,B6237,248,30,2028-02-06,2025-01-28,51.02,MediSupply,B2,Active
+MED278,Cefixime,Cefixime,Tablet,10 ml,Cipla,B6673,177,50,2026-05-16,2025-05-07,35.3,Prime Medics,C1,Active
+MED279,Cetirizine,Cetirizine,Syrup,650 mg,Lupin,B5522,396,20,2027-05-31,2025-04-03,144.9,ABC Pharma,A1,Active
+MED280,Vitamin C,Vitamin C,Syrup,500 mg,Sun Pharma,B3866,402,50,2028-02-05,2025-06-14,89.2,MediSupply,B1,Active
+MED281,Calcium,Calcium,Capsule,5 ml,Dr. Reddy's,B8265,244,30,2027-03-16,2025-11-24,235.86,MediSupply,Cold Storage,Active
+MED282,Cefixime,Cefixime,Tablet,100 IU,Sun Pharma,B6169,384,50,2027-03-13,2025-07-14,175.71,MediSupply,B2,Active
+MED283,Diclofenac,Diclofenac,Ointment,100 IU,Alkem,B5878,174,30,2026-12-16,2025-11-08,119.56,HealthPlus,C2,Active
+MED284,Losartan,Losartan,Tablet,10 ml,Alkem,B4875,425,30,2027-06-11,2025-11-08,247.16,HealthPlus,B2,Active
+MED285,Calcium,Calcium,Syrup,5 ml,Torrent,B2495,65,20,2028-06-11,2025-08-23,204.51,LifeCare,B1,Active
+MED286,Cetirizine,Cetirizine,Capsule,100 IU,Mankind,B4130,296,50,2026-07-23,2025-10-16,50.24,Prime Medics,B2,Active
+MED287,Calcium,Calcium,Injection,650 mg,Dr. Reddy's,B7406,318,30,2026-03-31,2025-07-26,252.43,MediSupply,Cold Storage,Active
+MED288,Insulin,Insulin,Capsule,250 mg,Abbott,B2338,268,30,2027-12-30,2025-07-14,43.27,HealthPlus,B1,Active
+MED289,Insulin,Insulin,Injection,100 IU,Torrent,B9644,360,50,2026-03-18,2025-09-21,227.49,LifeCare,A2,Active
+MED290,Amlodipine,Amlodipine,Tablet,250 mg,Dr. Reddy's,B1383,82,20,2026-12-09,2025-01-04,76.33,Prime Medics,B1,Active
+MED291,ORS,ORS,Injection,5 ml,Mankind,B6434,358,30,2026-09-10,2025-12-28,91.35,Prime Medics,C1,Active
+MED292,Paracetamol,Paracetamol,Capsule,500 mg,Torrent,B1706,40,30,2027-07-07,2025-04-13,426.37,ABC Pharma,C1,Active
+MED293,Azithromycin,Azithromycin,Capsule,100 IU,Mankind,B2581,52,30,2027-04-26,2025-02-19,76.87,ABC Pharma,B2,Active
+MED294,Pantoprazole,Pantoprazole,Tablet,500 mg,Alkem,B2364,41,50,2028-04-15,2025-12-21,289.32,ABC Pharma,A2,Active
+MED295,Pantoprazole,Pantoprazole,Injection,10 ml,Alkem,B3925,383,20,2027-03-31,2025-10-26,99.57,HealthPlus,B1,Active
+MED296,Amlodipine,Amlodipine,Tablet,100 IU,Dr. Reddy's,B2588,369,50,2027-07-23,2025-03-07,145.02,ABC Pharma,B2,Active
+MED297,Levocetirizine,Levocetirizine,Syrup,250 mg,Sun Pharma,B5011,353,50,2027-04-26,2025-12-24,105.26,MediSupply,Cold Storage,Active
+MED298,Paracetamol,Paracetamol,Tablet,10 ml,Dr. Reddy's,B4488,237,20,2028-04-21,2025-12-14,168.16,MediSupply,Cold Storage,Active
+MED299,Cetirizine,Cetirizine,Capsule,5 ml,Torrent,B2753,194,20,2026-08-22,2025-05-21,395.33,LifeCare,A1,Active
+MED300,Cetirizine,Cetirizine,Capsule,5 ml,Torrent,B2103,75,20,2026-03-27,2025-12-22,242.9,Prime Medics,C1,Active
+MED301,Pantoprazole,Pantoprazole,Ointment,500 mg,Alkem,B7290,287,20,2026-04-27,2025-04-09,219.37,ABC Pharma,B2,Active
+MED302,Losartan,Losartan,Injection,5 ml,Torrent,B7996,204,30,2027-11-13,2025-10-19,441.99,MediSupply,A1,Active
+MED303,Cefixime,Cefixime,Injection,10 ml,Dr. Reddy's,B3032,244,20,2028-05-22,2025-03-30,318.82,ABC Pharma,C1,Active
+MED304,Vitamin C,Vitamin C,Syrup,500 mg,Abbott,B9729,276,30,2027-06-07,2025-05-01,337.33,MediSupply,A1,Active
+MED305,Omeprazole,Omeprazole,Ointment,650 mg,Dr. Reddy's,B6977,377,30,2026-08-06,2025-08-04,253.31,ABC Pharma,Cold Storage,Active
+MED306,Cetirizine,Cetirizine,Ointment,650 mg,Dr. Reddy's,B4157,342,30,2026-06-23,2025-10-27,323.15,Prime Medics,Cold Storage,Active
+MED307,Pantoprazole,Pantoprazole,Injection,650 mg,Sun Pharma,B5091,78,30,2027-11-23,2025-09-11,470.92,ABC Pharma,A1,Active
+MED308,Atorvastatin,Atorvastatin,Ointment,650 mg,Alkem,B5410,120,30,2026-06-03,2025-07-23,261.15,ABC Pharma,A1,Active
+MED309,Atorvastatin,Atorvastatin,Ointment,5 ml,Sun Pharma,B3618,464,30,2026-12-22,2025-10-24,29.85,HealthPlus,B2,Active
+MED310,Levocetirizine,Levocetirizine,Tablet,100 IU,Torrent,B9351,125,30,2026-08-24,2025-08-15,73.0,MediSupply,C2,Active
+MED311,Dolo,Dolo,Ointment,650 mg,Cipla,B3798,217,50,2027-05-26,2025-08-11,275.17,Prime Medics,C2,Active
+MED312,Paracetamol,Paracetamol,Ointment,650 mg,Torrent,B1560,191,50,2026-08-21,2025-02-01,411.35,HealthPlus,B1,Active
+MED313,Levocetirizine,Levocetirizine,Ointment,650 mg,Lupin,B1970,415,50,2027-02-26,2025-10-22,153.22,MediSupply,C2,Active
+MED314,Dolo,Dolo,Tablet,500 mg,Dr. Reddy's,B1450,289,30,2026-09-25,2025-11-26,277.93,LifeCare,C1,Active
+MED315,ORS,ORS,Injection,5 ml,Cipla,B1205,384,20,2027-06-11,2025-08-29,36.33,MediSupply,Cold Storage,Active
+MED316,Amlodipine,Amlodipine,Ointment,650 mg,Abbott,B2493,154,20,2026-06-19,2025-11-04,407.73,MediSupply,B2,Active
+MED317,Metformin,Metformin,Capsule,500 mg,Dr. Reddy's,B1966,32,20,2027-06-16,2025-03-23,244.25,ABC Pharma,Cold Storage,Active
+MED318,Azithromycin,Azithromycin,Capsule,100 IU,Cipla,B6007,248,30,2027-09-04,2025-10-21,37.93,ABC Pharma,Cold Storage,Active
+MED319,ORS,ORS,Injection,500 mg,Cipla,B7122,163,30,2028-03-14,2025-07-01,217.71,MediSupply,B1,Active
+MED320,ORS,ORS,Capsule,650 mg,Torrent,B1208,87,20,2026-11-03,2025-10-30,392.89,LifeCare,A2,Active
+MED321,Cetirizine,Cetirizine,Injection,5 ml,Alkem,B9451,51,30,2026-06-27,2025-11-17,74.56,MediSupply,C1,Active
+MED322,Pantoprazole,Pantoprazole,Tablet,500 mg,Lupin,B5487,399,20,2028-05-08,2025-03-03,478.02,Prime Medics,C1,Active
+MED323,Insulin,Insulin,Capsule,100 IU,Mankind,B8747,206,30,2028-06-13,2025-03-26,104.35,MediSupply,B1,Active
+MED324,Calcium,Calcium,Tablet,250 mg,Alkem,B1969,180,20,2026-04-23,2025-02-01,343.35,LifeCare,A2,Active
+MED325,Atorvastatin,Atorvastatin,Injection,5 ml,Lupin,B3425,141,30,2027-08-03,2025-08-13,184.32,HealthPlus,C1,Active
+MED326,Cefixime,Cefixime,Ointment,250 mg,Sun Pharma,B1620,186,20,2028-04-16,2025-12-20,27.11,MediSupply,A2,Active
+MED327,Levocetirizine,Levocetirizine,Injection,100 IU,Sun Pharma,B1136,253,20,2026-06-16,2025-09-22,381.06,ABC Pharma,A1,Active
+MED328,Levocetirizine,Levocetirizine,Capsule,650 mg,Lupin,B9319,43,30,2027-01-30,2025-02-23,54.78,HealthPlus,C1,Active
+MED329,Amoxicillin,Amoxicillin,Syrup,250 mg,Sun Pharma,B6865,494,20,2027-02-16,2025-01-11,79.43,ABC Pharma,Cold Storage,Active
+MED330,Diclofenac,Diclofenac,Tablet,10 ml,Sun Pharma,B9850,226,50,2026-04-04,2025-09-27,182.02,ABC Pharma,C1,Active
+MED331,Pantoprazole,Pantoprazole,Syrup,650 mg,Alkem,B4406,350,50,2026-09-06,2025-01-21,238.7,LifeCare,C1,Active
+MED332,Calcium,Calcium,Injection,10 ml,Cipla,B4029,268,20,2028-04-26,2025-11-15,481.54,MediSupply,A1,Active
+MED333,Omeprazole,Omeprazole,Tablet,100 IU,Torrent,B3042,167,30,2027-03-14,2025-05-02,201.61,ABC Pharma,B2,Active
+MED334,Losartan,Losartan,Tablet,500 mg,Abbott,B7993,371,20,2026-05-30,2025-08-29,56.12,MediSupply,C2,Active
+MED335,Amoxicillin,Amoxicillin,Ointment,250 mg,Torrent,B5585,287,50,2027-07-30,2025-11-19,451.79,HealthPlus,A1,Active
+MED336,Metformin,Metformin,Tablet,250 mg,Alkem,B6949,128,20,2026-06-17,2025-02-20,276.08,HealthPlus,Cold Storage,Active
+MED337,Levocetirizine,Levocetirizine,Injection,500 mg,Dr. Reddy's,B4202,245,50,2026-09-08,2025-11-15,434.56,ABC Pharma,B2,Active
+MED338,ORS,ORS,Tablet,500 mg,Abbott,B7915,407,20,2026-06-22,2025-05-01,379.61,Prime Medics,C1,Active
+MED339,Dolo,Dolo,Ointment,5 ml,Dr. Reddy's,B5380,64,20,2026-08-08,2025-01-31,188.54,HealthPlus,B2,Active
+MED340,Amoxicillin,Amoxicillin,Injection,500 mg,Abbott,B2515,400,20,2028-05-25,2025-09-05,223.5,MediSupply,B1,Active
+MED341,Dolo,Dolo,Injection,500 mg,Sun Pharma,B3352,106,20,2026-10-10,2025-06-04,178.97,HealthPlus,A1,Active
+MED342,Vitamin C,Vitamin C,Syrup,10 ml,Sun Pharma,B4080,400,30,2027-05-20,2025-04-03,443.59,MediSupply,A2,Active
+MED343,Paracetamol,Paracetamol,Syrup,100 IU,Cipla,B1413,107,50,2027-12-12,2025-09-26,469.02,Prime Medics,B2,Active
+MED344,Ibuprofen,Ibuprofen,Injection,5 ml,Abbott,B6638,51,30,2027-11-06,2025-06-15,317.33,LifeCare,A2,Active
+MED345,Cefixime,Cefixime,Injection,5 ml,Sun Pharma,B2587,286,50,2027-04-07,2025-03-13,414.58,ABC Pharma,B2,Active
+MED346,Atorvastatin,Atorvastatin,Capsule,500 mg,Mankind,B1584,353,30,2028-06-10,2025-04-24,406.09,ABC Pharma,C1,Active
+MED347,Amlodipine,Amlodipine,Capsule,650 mg,Torrent,B1093,206,50,2027-07-17,2025-07-19,126.75,LifeCare,B2,Active
+MED348,ORS,ORS,Syrup,500 mg,Torrent,B7011,55,30,2028-01-22,2025-02-06,274.84,MediSupply,Cold Storage,Active
+MED349,Dolo,Dolo,Injection,10 ml,Torrent,B4635,161,20,2027-02-28,2025-06-15,101.71,MediSupply,Cold Storage,Active
+MED350,Cefixime,Cefixime,Injection,100 IU,Dr. Reddy's,B1359,238,20,2027-01-13,2025-06-01,208.47,Prime Medics,C1,Active
+MED351,Paracetamol,Paracetamol,Injection,10 ml,Torrent,B1528,192,30,2027-09-23,2025-05-21,396.17,HealthPlus,Cold Storage,Active
+MED352,Insulin,Insulin,Capsule,500 mg,Sun Pharma,B3105,118,50,2026-06-23,2025-07-04,462.84,Prime Medics,B2,Active
+MED353,Diclofenac,Diclofenac,Ointment,500 mg,Mankind,B1164,239,50,2027-01-12,2025-02-16,323.52,LifeCare,B1,Active
+MED354,Cetirizine,Cetirizine,Injection,5 ml,Mankind,B4097,137,30,2028-03-09,2025-11-16,19.31,ABC Pharma,C1,Active
+MED355,Levocetirizine,Levocetirizine,Ointment,5 ml,Mankind,B1692,71,30,2026-09-10,2025-03-09,369.49,MediSupply,A1,Active
+MED356,Omeprazole,Omeprazole,Capsule,500 mg,Alkem,B9936,482,50,2027-08-06,2025-10-20,386.86,ABC Pharma,A1,Active
+MED357,Pantoprazole,Pantoprazole,Tablet,250 mg,Sun Pharma,B4874,23,20,2026-11-02,2025-03-15,338.4,Prime Medics,B2,Active
+MED358,Losartan,Losartan,Tablet,100 IU,Cipla,B6218,356,20,2026-09-29,2025-02-02,173.76,HealthPlus,B2,Active
+MED359,Vitamin C,Vitamin C,Syrup,500 mg,Abbott,B2678,439,20,2026-05-21,2025-01-17,473.42,MediSupply,C1,Active
+MED360,Diclofenac,Diclofenac,Tablet,250 mg,Torrent,B4887,272,20,2027-06-14,2025-09-28,144.37,HealthPlus,C1,Active
+MED361,Omeprazole,Omeprazole,Injection,250 mg,Mankind,B9211,470,50,2028-06-14,2025-05-31,256.7,Prime Medics,C2,Active
+MED362,Amlodipine,Amlodipine,Injection,10 ml,Dr. Reddy's,B1456,16,30,2027-09-22,2025-10-27,485.28,HealthPlus,A2,Active
+MED363,Diclofenac,Diclofenac,Ointment,500 mg,Alkem,B4390,216,20,2027-12-06,2025-08-13,233.59,HealthPlus,C1,Active
+MED364,Azithromycin,Azithromycin,Ointment,500 mg,Torrent,B4987,15,20,2027-07-22,2025-07-14,237.55,HealthPlus,B1,Active
+MED365,Calcium,Calcium,Ointment,100 IU,Sun Pharma,B4289,449,30,2027-01-05,2025-02-02,123.29,Prime Medics,A2,Active
+MED366,Azithromycin,Azithromycin,Capsule,10 ml,Dr. Reddy's,B9863,438,30,2027-01-16,2025-12-23,50.64,MediSupply,B1,Active
+MED367,Atorvastatin,Atorvastatin,Injection,5 ml,Dr. Reddy's,B7646,69,50,2026-03-15,2025-07-10,158.57,HealthPlus,B2,Active
+MED368,Paracetamol,Paracetamol,Injection,650 mg,Dr. Reddy's,B6233,105,20,2027-01-27,2025-12-11,68.98,HealthPlus,C1,Active
+MED369,Salbutamol,Salbutamol,Capsule,10 ml,Lupin,B1971,282,20,2027-09-03,2025-10-27,211.88,LifeCare,C1,Active
+MED370,Azithromycin,Azithromycin,Injection,10 ml,Torrent,B4614,11,30,2026-09-21,2025-07-20,198.1,Prime Medics,B1,Active
+MED371,Cefixime,Cefixime,Capsule,650 mg,Mankind,B3980,278,50,2026-06-25,2025-01-05,303.63,MediSupply,A2,Active
+MED372,Diclofenac,Diclofenac,Capsule,100 IU,Dr. Reddy's,B3283,60,30,2026-02-19,2025-09-17,76.99,ABC Pharma,B2,Active
+MED373,Azithromycin,Azithromycin,Tablet,5 ml,Abbott,B3621,115,20,2027-03-05,2025-02-05,265.65,MediSupply,C1,Active
+MED374,ORS,ORS,Ointment,500 mg,Torrent,B9380,481,20,2026-11-26,2025-12-20,53.81,HealthPlus,B1,Active
+MED375,Metformin,Metformin,Ointment,10 ml,Alkem,B2728,407,20,2026-03-01,2025-10-11,20.13,MediSupply,C1,Active
+MED376,Paracetamol,Paracetamol,Syrup,10 ml,Mankind,B8093,43,50,2027-07-14,2025-05-02,421.77,Prime Medics,B1,Active
+MED377,Omeprazole,Omeprazole,Syrup,500 mg,Abbott,B8248,11,30,2027-05-17,2025-07-22,222.69,MediSupply,Cold Storage,Active
+MED378,Salbutamol,Salbutamol,Capsule,10 ml,Cipla,B9032,223,20,2026-05-03,2025-12-25,379.18,ABC Pharma,A2,Active
+MED379,Paracetamol,Paracetamol,Tablet,500 mg,Dr. Reddy's,B7284,4,30,2026-02-11,2025-07-14,407.44,LifeCare,Cold Storage,Active
+MED380,Diclofenac,Diclofenac,Injection,5 ml,Cipla,B2798,130,50,2028-02-10,2025-09-09,238.74,LifeCare,C1,Active
+MED381,Losartan,Losartan,Syrup,650 mg,Lupin,B6141,203,20,2026-10-25,2025-06-22,466.17,MediSupply,B1,Active
+MED382,ORS,ORS,Ointment,250 mg,Sun Pharma,B4212,20,30,2028-03-30,2025-09-08,328.3,HealthPlus,B1,Active
+MED383,Ibuprofen,Ibuprofen,Capsule,10 ml,Dr. Reddy's,B6356,211,50,2027-01-30,2025-11-18,134.35,HealthPlus,C1,Active
+MED384,Cefixime,Cefixime,Ointment,250 mg,Mankind,B7417,53,50,2027-05-25,2025-01-08,242.0,LifeCare,B2,Active
+MED385,Salbutamol,Salbutamol,Ointment,100 IU,Abbott,B1003,350,30,2026-03-22,2025-05-20,416.69,MediSupply,B2,Active
+MED386,Insulin,Insulin,Injection,10 ml,Lupin,B9420,18,20,2027-04-21,2025-05-30,346.3,ABC Pharma,C1,Active
+MED387,Amoxicillin,Amoxicillin,Injection,100 IU,Torrent,B1770,389,50,2026-05-26,2025-01-20,386.44,Prime Medics,A1,Active
+MED388,Amlodipine,Amlodipine,Capsule,10 ml,Abbott,B4033,339,20,2027-04-25,2025-10-28,303.38,ABC Pharma,A1,Active
+MED389,Metformin,Metformin,Capsule,500 mg,Sun Pharma,B5237,204,50,2026-06-24,2025-01-29,116.0,ABC Pharma,A2,Active
+MED390,Amlodipine,Amlodipine,Capsule,10 ml,Lupin,B1349,358,50,2026-10-01,2025-08-23,25.69,LifeCare,A2,Active
+MED391,Pantoprazole,Pantoprazole,Syrup,10 ml,Abbott,B6065,316,30,2027-07-02,2025-04-05,143.11,LifeCare,Cold Storage,Active
+MED392,Vitamin C,Vitamin C,Ointment,650 mg,Lupin,B8514,167,50,2028-04-19,2025-03-09,354.99,LifeCare,C1,Active
+MED393,Diclofenac,Diclofenac,Syrup,250 mg,Abbott,B8846,257,30,2026-10-11,2025-06-16,374.28,MediSupply,A1,Active
+MED394,Dolo,Dolo,Injection,5 ml,Cipla,B9794,268,30,2026-07-18,2025-04-22,121.02,MediSupply,B1,Active
+MED395,Diclofenac,Diclofenac,Injection,500 mg,Mankind,B6074,80,50,2026-02-12,2025-06-30,20.88,HealthPlus,B1,Active
+MED396,Ibuprofen,Ibuprofen,Injection,5 ml,Mankind,B8294,426,50,2028-01-13,2025-10-20,344.55,HealthPlus,A2,Active
+MED397,Atorvastatin,Atorvastatin,Capsule,10 ml,Cipla,B6634,286,50,2027-05-02,2025-06-28,241.7,Prime Medics,A2,Active
+MED398,Insulin,Insulin,Capsule,250 mg,Abbott,B5693,356,30,2027-10-08,2025-12-15,162.05,MediSupply,A2,Active
+MED399,Levocetirizine,Levocetirizine,Capsule,500 mg,Torrent,B7124,149,20,2027-08-01,2025-06-23,28.49,LifeCare,A1,Active
+MED400,Omeprazole,Omeprazole,Syrup,650 mg,Alkem,B8809,193,30,2026-12-14,2025-09-23,21.07,ABC Pharma,Cold Storage,Active
+MED401,Cefixime,Cefixime,Tablet,650 mg,Lupin,B6787,103,30,2027-09-09,2025-01-03,400.36,ABC Pharma,B1,Active
+MED402,Amoxicillin,Amoxicillin,Syrup,650 mg,Lupin,B1911,373,20,2026-05-22,2025-07-01,170.93,Prime Medics,B1,Active
+MED403,Cetirizine,Cetirizine,Capsule,5 ml,Abbott,B9542,339,20,2028-04-29,2025-01-28,17.39,MediSupply,B1,Active
+MED404,Amoxicillin,Amoxicillin,Ointment,5 ml,Cipla,B4314,496,30,2026-08-24,2025-01-20,159.74,HealthPlus,C1,Active
+MED405,Ibuprofen,Ibuprofen,Capsule,100 IU,Abbott,B6746,37,20,2027-01-31,2025-02-26,140.95,Prime Medics,B1,Active
+MED406,Calcium,Calcium,Tablet,10 ml,Lupin,B2592,222,50,2027-10-27,2025-01-15,49.82,MediSupply,Cold Storage,Active
+MED407,Ibuprofen,Ibuprofen,Capsule,5 ml,Abbott,B4537,272,30,2027-04-14,2025-05-02,397.03,LifeCare,C1,Active
+MED408,Losartan,Losartan,Capsule,500 mg,Torrent,B4153,424,20,2028-06-04,2025-05-15,259.18,LifeCare,A2,Active
+MED409,Omeprazole,Omeprazole,Ointment,100 IU,Sun Pharma,B5390,331,50,2026-12-29,2025-09-26,102.19,ABC Pharma,B1,Active
+MED410,Losartan,Losartan,Ointment,250 mg,Dr. Reddy's,B9864,253,50,2027-05-26,2025-03-30,260.2,ABC Pharma,A1,Active
+MED411,Atorvastatin,Atorvastatin,Injection,10 ml,Torrent,B8973,49,20,2027-01-13,2025-09-30,231.24,LifeCare,A2,Active
+MED412,Paracetamol,Paracetamol,Ointment,5 ml,Abbott,B2146,52,30,2027-12-09,2025-03-01,347.71,Prime Medics,C2,Active
+MED413,Pantoprazole,Pantoprazole,Ointment,5 ml,Torrent,B2560,343,20,2027-02-10,2025-10-15,368.55,ABC Pharma,A1,Active
+MED414,Insulin,Insulin,Tablet,10 ml,Dr. Reddy's,B2131,196,50,2027-05-12,2025-05-30,275.77,ABC Pharma,B1,Active
+MED415,Amoxicillin,Amoxicillin,Injection,100 IU,Lupin,B3233,295,20,2028-02-07,2025-01-27,436.46,HealthPlus,B2,Active
+MED416,Levocetirizine,Levocetirizine,Ointment,500 mg,Cipla,B8162,96,20,2028-04-16,2025-02-10,47.31,LifeCare,B2,Active
+MED417,Levocetirizine,Levocetirizine,Syrup,250 mg,Lupin,B8434,140,30,2027-03-11,2025-10-14,361.52,ABC Pharma,Cold Storage,Active
+MED418,Ibuprofen,Ibuprofen,Tablet,5 ml,Alkem,B3913,82,30,2026-03-16,2025-12-14,391.61,ABC Pharma,B2,Active
+MED419,Cetirizine,Cetirizine,Tablet,5 ml,Lupin,B5900,394,20,2026-12-15,2025-07-16,235.1,MediSupply,B1,Active
+MED420,Ibuprofen,Ibuprofen,Syrup,650 mg,Alkem,B3482,340,50,2027-12-04,2025-07-04,445.29,ABC Pharma,C2,Active
+MED421,Cetirizine,Cetirizine,Capsule,650 mg,Torrent,B6222,163,50,2027-07-27,2025-11-09,390.58,MediSupply,B1,Active
+MED422,Metformin,Metformin,Syrup,500 mg,Abbott,B3089,107,20,2027-07-28,2025-03-06,69.89,ABC Pharma,B2,Active
+MED423,Calcium,Calcium,Capsule,650 mg,Mankind,B8413,68,30,2027-01-16,2025-08-14,61.32,MediSupply,A1,Active
+MED424,Levocetirizine,Levocetirizine,Injection,100 IU,Alkem,B1461,209,50,2026-08-29,2025-06-30,99.31,MediSupply,Cold Storage,Active
+MED425,Omeprazole,Omeprazole,Injection,10 ml,Cipla,B6598,360,30,2028-03-04,2025-03-28,368.43,MediSupply,Cold Storage,Active
+MED426,Pantoprazole,Pantoprazole,Tablet,5 ml,Cipla,B7326,410,30,2026-08-19,2025-12-30,183.02,HealthPlus,B2,Active
+MED427,Levocetirizine,Levocetirizine,Tablet,5 ml,Cipla,B4748,331,50,2027-02-09,2025-02-12,64.04,HealthPlus,A2,Active
+MED428,Vitamin C,Vitamin C,Injection,10 ml,Torrent,B3215,487,20,2027-06-04,2025-06-22,173.73,HealthPlus,C1,Active
+MED429,Amoxicillin,Amoxicillin,Injection,10 ml,Cipla,B4846,244,30,2027-05-19,2025-05-21,459.4,LifeCare,Cold Storage,Active
+MED430,Losartan,Losartan,Syrup,500 mg,Alkem,B2328,50,30,2026-02-24,2025-04-08,264.48,ABC Pharma,C2,Active
+MED431,Paracetamol,Paracetamol,Capsule,250 mg,Cipla,B8194,195,20,2026-12-10,2025-05-12,387.81,ABC Pharma,C1,Active
+MED432,Losartan,Losartan,Ointment,100 IU,Abbott,B5706,283,50,2027-05-26,2025-11-15,490.28,MediSupply,B1,Active
+MED433,Atorvastatin,Atorvastatin,Tablet,500 mg,Torrent,B8814,453,30,2026-11-16,2025-05-04,290.06,MediSupply,A1,Active
+MED434,ORS,ORS,Capsule,250 mg,Alkem,B8029,322,30,2027-07-28,2025-04-18,62.86,HealthPlus,A1,Active
+MED435,Paracetamol,Paracetamol,Tablet,650 mg,Mankind,B2944,125,30,2026-07-07,2025-03-08,162.5,ABC Pharma,A2,Active
+MED436,Omeprazole,Omeprazole,Injection,500 mg,Cipla,B4628,224,50,2027-07-02,2025-05-29,304.19,LifeCare,B2,Active
+MED437,Calcium,Calcium,Tablet,650 mg,Lupin,B3376,283,30,2028-04-30,2025-04-10,347.16,ABC Pharma,C1,Active
+MED438,Dolo,Dolo,Syrup,500 mg,Sun Pharma,B1853,188,30,2027-12-30,2025-03-16,457.05,Prime Medics,A1,Active
+MED439,Amlodipine,Amlodipine,Ointment,5 ml,Dr. Reddy's,B3096,436,30,2026-12-25,2025-01-11,413.7,Prime Medics,C1,Active
+MED440,Ibuprofen,Ibuprofen,Tablet,250 mg,Sun Pharma,B3853,305,50,2026-04-21,2025-05-19,466.0,ABC Pharma,Cold Storage,Active
+MED441,Metformin,Metformin,Injection,100 IU,Lupin,B8491,476,50,2027-12-17,2025-04-02,339.8,LifeCare,C1,Active
+MED442,Cetirizine,Cetirizine,Syrup,100 IU,Alkem,B4570,246,30,2027-12-21,2025-03-23,362.96,LifeCare,A2,Active
+MED443,Salbutamol,Salbutamol,Syrup,5 ml,Mankind,B6601,410,30,2028-02-09,2025-05-27,60.17,LifeCare,Cold Storage,Active
+MED444,Calcium,Calcium,Capsule,500 mg,Mankind,B1462,320,30,2028-04-28,2025-08-13,269.88,LifeCare,A2,Active
+MED445,Omeprazole,Omeprazole,Syrup,10 ml,Lupin,B2777,145,50,2026-11-11,2025-10-06,141.99,MediSupply,Cold Storage,Active
+MED446,Dolo,Dolo,Tablet,100 IU,Alkem,B3109,391,30,2026-07-12,2025-04-09,275.48,ABC Pharma,Cold Storage,Active
+MED447,Pantoprazole,Pantoprazole,Tablet,10 ml,Alkem,B7906,409,20,2026-09-22,2025-04-20,482.38,LifeCare,C1,Active
+MED448,Azithromycin,Azithromycin,Capsule,650 mg,Torrent,B8089,353,20,2028-01-13,2025-04-13,147.99,LifeCare,Cold Storage,Active
+MED449,Levocetirizine,Levocetirizine,Injection,650 mg,Dr. Reddy's,B7720,480,50,2028-05-06,2025-09-12,194.31,Prime Medics,A1,Active
+MED450,Omeprazole,Omeprazole,Capsule,500 mg,Abbott,B3320,40,50,2027-09-21,2025-04-28,195.7,LifeCare,B2,Active
+MED451,Amoxicillin,Amoxicillin,Syrup,500 mg,Dr. Reddy's,B9683,171,30,2026-03-19,2025-03-18,108.5,ABC Pharma,A1,Active
+MED452,Amoxicillin,Amoxicillin,Capsule,250 mg,Lupin,B9142,206,50,2027-03-21,2025-03-15,36.57,MediSupply,Cold Storage,Active
+MED453,Cetirizine,Cetirizine,Ointment,650 mg,Mankind,B8578,327,30,2027-02-02,2025-09-18,270.81,MediSupply,B1,Active
+MED454,Atorvastatin,Atorvastatin,Capsule,100 IU,Lupin,B1695,183,50,2026-03-18,2025-07-14,491.38,HealthPlus,A2,Active
+MED455,Insulin,Insulin,Ointment,650 mg,Cipla,B1506,353,50,2026-12-14,2025-11-10,155.73,MediSupply,A1,Active
+MED456,Levocetirizine,Levocetirizine,Capsule,500 mg,Alkem,B1031,498,50,2027-10-10,2025-06-27,15.05,Prime Medics,A1,Active
+MED457,Diclofenac,Diclofenac,Syrup,500 mg,Lupin,B7826,393,50,2027-01-03,2025-04-02,317.63,ABC Pharma,B2,Active
+MED458,Cefixime,Cefixime,Ointment,250 mg,Abbott,B3437,358,50,2027-11-29,2025-07-17,394.02,HealthPlus,C1,Active
+MED459,Pantoprazole,Pantoprazole,Capsule,10 ml,Sun Pharma,B7735,302,30,2027-07-06,2025-03-22,435.55,HealthPlus,C1,Active
+MED460,Paracetamol,Paracetamol,Tablet,10 ml,Alkem,B3804,392,20,2027-02-07,2025-01-29,351.56,HealthPlus,B1,Active
+MED461,Dolo,Dolo,Injection,500 mg,Dr. Reddy's,B4706,75,50,2026-09-30,2025-04-16,440.37,HealthPlus,B2,Active
+MED462,Metformin,Metformin,Capsule,10 ml,Lupin,B9173,345,50,2028-02-01,2025-11-01,18.26,ABC Pharma,C2,Active
+MED463,Azithromycin,Azithromycin,Capsule,650 mg,Mankind,B1125,50,30,2026-04-18,2025-07-01,457.41,ABC Pharma,B1,Active
+MED464,Cetirizine,Cetirizine,Ointment,650 mg,Alkem,B6803,23,30,2028-03-01,2025-11-17,173.38,MediSupply,B2,Active
+MED465,Losartan,Losartan,Syrup,5 ml,Torrent,B2338,265,50,2026-12-22,2025-04-24,62.92,MediSupply,B1,Active
+MED466,Losartan,Losartan,Syrup,10 ml,Torrent,B9864,439,20,2027-08-21,2025-06-17,131.09,ABC Pharma,C2,Active
+MED467,Metformin,Metformin,Ointment,100 IU,Cipla,B1770,474,50,2027-01-06,2025-04-25,319.11,HealthPlus,B2,Active
+MED468,Diclofenac,Diclofenac,Injection,100 IU,Torrent,B6820,435,20,2026-03-29,2025-03-09,336.61,Prime Medics,A2,Active
+MED469,Levocetirizine,Levocetirizine,Injection,10 ml,Cipla,B7965,296,50,2026-11-11,2025-04-18,474.3,Prime Medics,B2,Active
+MED470,Omeprazole,Omeprazole,Tablet,500 mg,Torrent,B4570,124,50,2026-05-23,2025-03-18,52.93,Prime Medics,C1,Active
+MED471,Salbutamol,Salbutamol,Injection,10 ml,Sun Pharma,B4517,460,20,2028-02-22,2025-10-27,368.27,MediSupply,C1,Active
+MED472,Calcium,Calcium,Tablet,500 mg,Torrent,B7127,423,50,2028-06-14,2025-10-02,386.71,LifeCare,C2,Active
+MED473,ORS,ORS,Injection,500 mg,Sun Pharma,B4320,326,50,2026-09-09,2025-06-20,371.08,LifeCare,C2,Active
+MED474,Amlodipine,Amlodipine,Tablet,5 ml,Mankind,B9252,298,20,2026-09-09,2025-04-23,9.8,MediSupply,A1,Active
+MED475,Cefixime,Cefixime,Ointment,250 mg,Lupin,B9467,279,50,2028-01-23,2025-07-18,347.13,HealthPlus,B2,Active
+MED476,Dolo,Dolo,Ointment,10 ml,Lupin,B8459,57,20,2027-07-31,2025-02-20,34.67,Prime Medics,A2,Active
+MED477,Calcium,Calcium,Capsule,650 mg,Mankind,B8691,163,50,2026-09-09,2025-04-28,25.49,LifeCare,C2,Active
+MED478,Ibuprofen,Ibuprofen,Ointment,100 IU,Alkem,B9835,334,50,2027-05-21,2025-09-20,427.18,Prime Medics,Cold Storage,Active
+MED479,Diclofenac,Diclofenac,Tablet,100 IU,Cipla,B3346,86,20,2027-11-10,2025-05-07,427.83,ABC Pharma,Cold Storage,Active
+MED480,Cetirizine,Cetirizine,Ointment,650 mg,Lupin,B1643,364,30,2027-01-11,2025-03-07,123.84,ABC Pharma,B1,Active
+MED481,Levocetirizine,Levocetirizine,Syrup,10 ml,Cipla,B3325,311,20,2027-09-30,2025-11-13,343.34,LifeCare,B2,Active
+MED482,Losartan,Losartan,Tablet,100 IU,Mankind,B6047,450,20,2026-02-25,2025-05-11,113.51,LifeCare,B1,Active
+MED483,Cetirizine,Cetirizine,Tablet,500 mg,Cipla,B4341,460,50,2028-06-18,2025-08-11,261.67,HealthPlus,Cold Storage,Active
+MED484,Omeprazole,Omeprazole,Capsule,650 mg,Abbott,B2170,491,20,2027-07-25,2025-01-07,451.64,HealthPlus,C2,Active
+MED485,Omeprazole,Omeprazole,Syrup,650 mg,Cipla,B8757,289,50,2026-04-18,2025-11-09,311.04,HealthPlus,A1,Active
+MED486,Ibuprofen,Ibuprofen,Tablet,100 IU,Mankind,B8812,159,30,2027-12-17,2025-04-25,8.52,MediSupply,A2,Active
+MED487,Levocetirizine,Levocetirizine,Syrup,500 mg,Sun Pharma,B7987,354,30,2027-11-06,2025-11-10,474.47,MediSupply,A2,Active
+MED488,Diclofenac,Diclofenac,Capsule,10 ml,Cipla,B9394,409,50,2026-07-11,2025-02-03,350.98,ABC Pharma,B1,Active
+MED489,Losartan,Losartan,Tablet,10 ml,Dr. Reddy's,B2687,464,30,2027-07-31,2025-01-10,412.81,ABC Pharma,B2,Active
+MED490,Vitamin C,Vitamin C,Capsule,100 IU,Mankind,B1548,69,20,2026-12-18,2025-10-18,421.46,MediSupply,A2,Active
+MED491,Ibuprofen,Ibuprofen,Ointment,100 IU,Dr. Reddy's,B4853,451,30,2027-07-12,2025-06-09,68.04,ABC Pharma,C1,Active
+MED492,Levocetirizine,Levocetirizine,Injection,650 mg,Lupin,B6344,490,50,2027-09-11,2026-01-01,361.72,ABC Pharma,A2,Active
+MED493,Levocetirizine,Levocetirizine,Tablet,10 ml,Dr. Reddy's,B8584,302,50,2027-07-30,2025-06-05,486.84,MediSupply,C2,Active
+MED494,Azithromycin,Azithromycin,Capsule,100 IU,Mankind,B2462,1,50,2027-01-25,2025-12-13,269.37,HealthPlus,A2,Active
+MED495,ORS,ORS,Syrup,100 IU,Abbott,B5669,463,20,2027-04-26,2025-08-21,294.43,HealthPlus,A1,Active
+MED496,Paracetamol,Paracetamol,Injection,10 ml,Dr. Reddy's,B1644,151,30,2028-06-07,2025-11-05,225.34,ABC Pharma,A1,Active
+MED497,Atorvastatin,Atorvastatin,Injection,10 ml,Alkem,B6334,200,50,2028-04-18,2025-07-01,138.73,ABC Pharma,B1,Active
+MED498,Amlodipine,Amlodipine,Ointment,500 mg,Mankind,B4213,404,30,2026-07-08,2025-07-28,428.71,MediSupply,C1,Active
+MED499,Omeprazole,Omeprazole,Tablet,100 IU,Dr. Reddy's,B5940,123,30,2026-12-27,2025-06-26,248.57,LifeCare,Cold Storage,Active
+MED500,Ibuprofen,Ibuprofen,Tablet,250 mg,Cipla,B4838,340,50,2027-05-21,2025-05-30,195.69,Prime Medics,C1,Active
